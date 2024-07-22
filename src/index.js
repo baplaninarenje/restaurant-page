@@ -60,7 +60,3 @@ tabList.addEventListener("click", (e) => handleTabClick(e.target));
 const footer = createFooter();
 
 body.append(content, footer);
-
-// todo
-// minimize and join css into one file
-// bundle fonts
